@@ -12,7 +12,7 @@ Folder structures / project organization and DevOps are not the goal!
 
 ```sh
 $ git clone https://github.com/gabrielmedeirossouza/basic-neon-effect-threejs.git
-$ cd neon-immersive-effects-threejs
+$ cd basic-neon-effect-threejs
 $ npm install
 $ npm run app
 ```
