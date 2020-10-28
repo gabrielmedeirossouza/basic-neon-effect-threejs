@@ -14,8 +14,6 @@ renderer.autoClear = false
 renderer.setPixelRatio( window.devicePixelRatio )
 renderer.setSize( window.innerWidth, window.innerHeight )
 renderer.toneMapping = THREE.ReinhardToneMapping
-renderer.gammaInput = true
-renderer.gammaOutput = true
 CONTAINER.appendChild( renderer.domElement )
 
 const scene = new THREE.Scene()
