@@ -11,7 +11,7 @@ Folder structures / project organization and DevOps are not the goal!
 ### DIY
 
 ```sh
-$ git clone https://github.com/gabrielmedeirossouza/neon-immersive-effects-threejs.git
+$ git clone https://github.com/gabrielmedeirossouza/basic-neon-effect-threejs.git
 $ cd neon-immersive-effects-threejs
 $ npm install
 $ npm run app
@@ -19,4 +19,4 @@ $ npm run app
 
 Open in your browser: http://127.0.0.1:3000
 
-![alt text](https://github.com/gabrielmedeirossouza/basic-neon-effect-threejs/)
+![alt text](https://github.com/gabrielmedeirossouza/basic-neon-effect-threejs/blob/main/UnrealBloom.gif)
